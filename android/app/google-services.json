@@ -1,0 +1,334 @@
+{
+  "project_info": {
+    "project_number": "994877659831",
+    "project_id": "fcmtest-910ec",
+    "storage_bucket": "fcmtest-910ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:b15e41204cc20bbd7a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.kosher_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:1f7e4abb6c5c41437a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.kosher_me_uk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:5b5d151033f831d07a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.locator_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:6713ed3426de27f97a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.locator_sample_613"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:ee7374749cfd75e37a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.on_sale_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:b999ceea1213e8de7a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.onsale_locator_sale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:f50f06d60623520e7a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.panorama_flea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:f3cf03b29b2225387a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.rosebank_sunday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994877659831:android:f7f7c18fdc2ae1be7a4b32",
+        "android_client_info": {
+          "package_name": "com.onsale.rosebanksunday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYfh4wFCs3AC5GKZ7krW-x-oNBp8MJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994877659831-qp8iia0kdsuegtmlq6vuai9e0i7isr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994877659831-a9fpnip63qf6t0070hfgf1htjev2nalr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.carda.awesomeNotificationsFcmExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
